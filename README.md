@@ -1,5 +1,5 @@
 -  Hi, I’m Aaron! @aaronjkeeney
-- 👀 I’m (primarily) interested in data science and machine learning. The more python I learn, the more I am interested in data structures and engineering...
+- 👀 I’m (primarily) interested in data science and machine learning. The more python I learn, the more I am interested in data structures and engineering. I just finished the Google Certificate in Advanced Data Analytics, and I am now diving in to the ML waters headfirst.
 - 🌱 I’m currently learning Natural Language Processing, gradient learning, and computational microbiology
 - 📫 How to reach me: www.linkedin.com/in/aaron-keeney or aaronjkeeney@gmail.com
 - 😄 Pronouns: He/Him/His
